@@ -7,13 +7,17 @@ Thank you for viewing this page.
 
 I created a connect four game based on R, R ggplot2 and R shiny.
 
+I recorded the process of creating this game, you can watch my video at:
+
+https://space.bilibili.com/2477951/channel/detail?cid=90169
+
 To play the game, please make sure your computer have following environment:
 
-+ ** R software 3.6.1 or above**
++  ** R software 3.6.1 or above**
 
-+ ** R studio (most recent update)**
++  ** R studio (most recent update)**
 
-+ ** package "ggplot2" and "shiny" are installed in R**
++  ** package "ggplot2" and "shiny" are installed in R**
 
 *If you do not have these two packages, you can run the enviroment.R to install.*
 
