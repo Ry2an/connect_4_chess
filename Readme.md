@@ -7,6 +7,18 @@ Thank you for viewing this page.
 
 I created a connect four game based on R, R ggplot2 and R shiny.
 
+## Key Features / Functions
+
++ Automatically swich player when a player successfully drop a piece.
+
++ Could notice player that one column is full and cannot drop.
+
++ Test whether the player won the game after every drop.
+
++ Transport and save data between local file and R shiny.
+
+----------------------------------------------------------------
+
 I recorded the process of creating this game, you can watch my video at:
 
 https://space.bilibili.com/2477951/channel/detail?cid=90169
